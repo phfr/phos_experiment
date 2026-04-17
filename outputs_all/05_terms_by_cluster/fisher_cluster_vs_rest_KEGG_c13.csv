@@ -1,0 +1,13 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+Spliceosome,2,8,37,2007,17.74774774774775,0.009498177613732593
+Regulation of actin cytoskeleton,2,8,60,2007,10.816666666666666,0.02314905953040708
+mRNA surveillance pathway,1,8,24,2007,11.803571428571429,0.09520914418736556
+Pancreatic cancer,1,8,30,2007,9.414285714285715,0.11684199950158496
+RNA transport,1,8,60,2007,4.635714285714286,0.21835923928026835
+Acute myeloid leukemia,0,8,25,2007,0.0,1.0
+Adipocytokine signaling pathway,0,8,10,2007,0.0,1.0
+Adherens junction,0,8,19,2007,0.0,1.0
+B cell receptor signaling pathway,0,8,35,2007,0.0,1.0
+Bacterial invasion of epithelial cells,0,8,20,2007,0.0,1.0
+Bladder cancer,0,8,22,2007,0.0,1.0
+Calcium signaling pathway,0,8,20,2007,0.0,1.0

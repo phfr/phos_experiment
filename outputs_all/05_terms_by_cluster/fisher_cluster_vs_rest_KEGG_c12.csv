@@ -1,0 +1,13 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+ko05152,1,6,26,2009,15.253846153846155,0.07784486603712738
+Vascular smooth muscle contraction,1,6,28,2009,14.15,0.0834041913802763
+Axon guidance,1,6,36,2009,10.96111111111111,0.10536304362266455
+Regulation of actin cytoskeleton,1,6,61,2009,6.386885245901639,0.17117978874194584
+Aldosterone-regulated sodium reabsorption,0,6,10,2009,0.0,1.0
+Acute myeloid leukemia,0,6,25,2009,0.0,1.0
+Adipocytokine signaling pathway,0,6,10,2009,0.0,1.0
+Adherens junction,0,6,19,2009,0.0,1.0
+B cell receptor signaling pathway,0,6,35,2009,0.0,1.0
+Bacterial invasion of epithelial cells,0,6,20,2009,0.0,1.0
+Bladder cancer,0,6,22,2009,0.0,1.0
+Calcium signaling pathway,0,6,20,2009,0.0,1.0

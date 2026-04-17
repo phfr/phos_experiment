@@ -1,0 +1,13 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+Spliceosome,1,10,38,2005,5.751461988304094,0.177895808198761
+Acute myeloid leukemia,0,10,25,2005,0.0,1.0
+Adipocytokine signaling pathway,0,10,10,2005,0.0,1.0
+Adherens junction,0,10,19,2005,0.0,1.0
+Alzheimer's disease,0,10,12,2005,0.0,1.0
+Apoptosis,0,10,10,2005,0.0,1.0
+Arrhythmogenic right ventricular cardiomyopathy (ARVC),0,10,12,2005,0.0,1.0
+Aldosterone-regulated sodium reabsorption,0,10,10,2005,0.0,1.0
+B cell receptor signaling pathway,0,10,35,2005,0.0,1.0
+Bacterial invasion of epithelial cells,0,10,20,2005,0.0,1.0
+Bladder cancer,0,10,22,2005,0.0,1.0
+Calcium signaling pathway,0,10,20,2005,0.0,1.0

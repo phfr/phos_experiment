@@ -1,0 +1,11 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+negative regulation of small GTPase mediated signal transduction,11,219,15,1796,6.279166666666667,3.444546226409582e-05
+negative regulation of Ras protein signal transduction,11,219,15,1796,6.279166666666667,3.444546226409582e-05
+regulation of histone modification,11,219,18,1796,5.223824786324786,0.00011449037549750028
+negative regulation of gene expression. epigenetic,9,219,15,1796,5.088571428571429,0.0005445261091959961
+cellular response to ionizing radiation,6,219,6,1796,8.4037558685446,0.0008105401272593063
+regulation of gene expression. epigenetic,16,219,48,1796,2.870279146141215,0.0014601135287944378
+regulation of Ras protein signal transduction,11,219,27,1796,3.4649216524216526,0.0016334842843891547
+embryonic organ morphogenesis,5,219,5,1796,8.369158878504672,0.002310525368729702
+regulation of defense response to virus by virus,5,219,5,1796,8.369158878504672,0.002310525368729702
+positive regulation of histone modification,7,219,12,1796,4.908805031446541,0.00260964649202429

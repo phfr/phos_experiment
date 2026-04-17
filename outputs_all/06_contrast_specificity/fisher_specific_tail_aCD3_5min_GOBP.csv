@@ -1,0 +1,26 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+positive regulation of protein tyrosine kinase activity,1,12,5,2003,36.32727272727273,0.035247330923181566
+mitotic sister chromatid segregation,1,12,7,2003,25.92207792207792,0.04674093175029418
+B cell differentiation,1,12,7,2003,25.92207792207792,0.04674093175029418
+regulation of protein tyrosine kinase activity,1,12,7,2003,25.92207792207792,0.04674093175029418
+regulation of calcium ion transport via store-operated calcium channel activity,1,12,9,2003,20.141414141414142,0.0581088892591341
+positive regulation of calcium ion transport via store-operated calcium channel activity,1,12,9,2003,20.141414141414142,0.0581088892591341
+regulation of defense response to virus by virus,1,12,9,2003,20.141414141414142,0.0581088892591341
+activation of store-operated calcium channel activity,1,12,9,2003,20.141414141414142,0.0581088892591341
+chromosome condensation,1,12,9,2003,20.141414141414142,0.0581088892591341
+signal transduction involved in DNA integrity checkpoint,1,12,10,2003,18.118181818181817,0.06374614278975275
+negative regulation of neuron apoptosis,1,12,10,2003,18.118181818181817,0.06374614278975275
+signal transduction involved in DNA damage checkpoint,1,12,10,2003,18.118181818181817,0.06374614278975275
+signal transduction involved in cell cycle checkpoint,1,12,10,2003,18.118181818181817,0.06374614278975275
+sister chromatid segregation,1,12,11,2003,16.462809917355372,0.06935245331196982
+negative regulation of protein catabolic process,1,12,11,2003,16.462809917355372,0.06935245331196982
+positive regulation of peptidyl-tyrosine phosphorylation,1,12,12,2003,15.083333333333334,0.0749279753091023
+calcium ion transmembrane transport,1,12,12,2003,15.083333333333334,0.0749279753091023
+positive regulation of ion transmembrane transporter activity,1,12,12,2003,15.083333333333334,0.0749279753091023
+positive regulation of calcium ion transport,1,12,13,2003,13.916083916083917,0.0804728625699868
+regulation of ion transmembrane transporter activity,1,12,13,2003,13.916083916083917,0.0804728625699868
+axon guidance,2,12,81,2003,4.745679012345679,0.0846642575331762
+regulation of ion transmembrane transport,1,12,14,2003,12.915584415584416,0.08598726819175599
+positive regulation of transporter activity,1,12,14,2003,12.915584415584416,0.08598726819175599
+positive regulation of ion transport,1,12,14,2003,12.915584415584416,0.08598726819175599
+B cell activation,1,12,15,2003,12.048484848484849,0.09147134458260543

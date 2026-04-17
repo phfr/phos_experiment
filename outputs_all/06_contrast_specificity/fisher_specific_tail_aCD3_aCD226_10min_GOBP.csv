@@ -1,0 +1,26 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+histone modification,4,19,68,1996,7.56078431372549,0.0038677828040844186
+covalent chromatin modification,4,19,69,1996,7.447342995169082,0.004067343063723845
+positive regulation of lymphocyte mediated immunity,2,19,10,1996,23.36470588235294,0.005257182490723855
+positive regulation of T cell mediated immunity,2,19,10,1996,23.36470588235294,0.005257182490723855
+positive regulation of leukocyte mediated immunity,2,19,10,1996,23.36470588235294,0.005257182490723855
+regulation of T cell mediated immunity,2,19,12,1996,19.45098039215686,0.0071674432447935785
+positive regulation of immune effector process,2,19,13,1996,17.945701357466064,0.00822375863572948
+regulation of lymphocyte mediated immunity,2,19,13,1996,17.945701357466064,0.00822375863572948
+positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,2,19,13,1996,17.945701357466064,0.00822375863572948
+positive regulation of adaptive immune response,2,19,15,1996,15.537254901960784,0.010532682133329675
+regulation of leukocyte mediated immunity,2,19,15,1996,15.537254901960784,0.010532682133329675
+regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,2,19,17,1996,13.695501730103807,0.013095399246669807
+regulation of adaptive immune response,2,19,20,1996,11.623529411764705,0.0173950304644622
+negative regulation of gene expression. epigenetic,2,19,22,1996,10.556149732620321,0.0205519905399566
+macromolecule localization,3,19,69,1996,5.236413043478261,0.02810188183404768
+histone acetylation,2,19,27,1996,8.579520697167755,0.029397878259384076
+internal peptidyl-lysine acetylation,2,19,27,1996,8.579520697167755,0.029397878259384076
+internal protein amino acid acetylation,2,19,29,1996,7.979716024340771,0.03329565170836876
+peptidyl-lysine acetylation,2,19,29,1996,7.979716024340771,0.03329565170836876
+tissue development,2,19,31,1996,7.4573055028463,0.03738668018137726
+peptidyl-lysine modification,2,19,33,1996,6.998217468805704,0.04166315890082556
+protein acetylation,2,19,33,1996,6.998217468805704,0.04166315890082556
+chromosome organization,5,19,210,1996,3.0374149659863945,0.044042327079936494
+localization,3,19,83,1996,4.321536144578313,0.04435987410071623
+protein acylation,2,19,35,1996,6.591596638655462,0.04611748116214452

@@ -1,0 +1,13 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+Inositol phosphate metabolism,1,8,10,2007,28.52857142857143,0.04292025412203885
+Jak-STAT signaling pathway,1,8,17,2007,16.722689075630253,0.06938599541285746
+Toxoplasmosis,1,8,17,2007,16.722689075630253,0.06938599541285746
+Phosphatidylinositol signaling system,1,8,21,2007,13.510204081632653,0.08421989905950811
+ko05152,1,8,26,2007,10.884615384615385,0.10247104340377336
+Endocytosis,1,8,41,2007,6.850174216027875,0.15532918498306347
+Alzheimer's disease,0,8,12,2007,0.0,1.0
+Acute myeloid leukemia,0,8,25,2007,0.0,1.0
+B cell receptor signaling pathway,0,8,35,2007,0.0,1.0
+Bacterial invasion of epithelial cells,0,8,20,2007,0.0,1.0
+Bladder cancer,0,8,22,2007,0.0,1.0
+Calcium signaling pathway,0,8,20,2007,0.0,1.0

@@ -1,0 +1,11 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+negative regulation of Ras protein signal transduction,11,169,15,1846,8.49831223628692,2.672579578874212e-06
+negative regulation of small GTPase mediated signal transduction,11,169,15,1846,8.49831223628692,2.672579578874212e-06
+regulation of Ras protein signal transduction,13,169,25,1846,6.07,5.4457644236701155e-06
+chromatin silencing at rDNA,4,169,1,1846,44.72727272727273,0.00022371700232124187
+regulation of mitotic cell cycle,18,169,72,1846,2.937086092715232,0.00030688252925337563
+negative regulation of biological process,74,169,554,1846,1.816606498194946,0.0003477954237904584
+chromosome organization,33,169,182,1846,2.2184873949579833,0.00035447536671830886
+negative regulation of cellular process,70,169,518,1846,1.8127218127218128,0.0003851923320183887
+negative regulation of gene expression. epigenetic,8,169,16,1846,5.683229813664596,0.00047506251187073834
+regulation of neurogenesis,14,169,54,1846,2.9973715651135007,0.0010926884125816536

@@ -1,0 +1,11 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+regulation of stress-activated MAPK cascade,10,578,2,1437,12.632042253521126,0.0001298687362810062
+regulation of Golgi inheritance,7,578,0,1437,inf,0.00015569052750836492
+regulation of early endosome to late endosome transport,7,578,0,1437,inf,0.00015569052750836492
+cellular response to fibroblast growth factor stimulus,23,578,21,1437,2.7943371943371944,0.0010595693821125447
+response to fibroblast growth factor stimulus,23,578,21,1437,2.7943371943371944,0.0010595693821125447
+fibroblast growth factor receptor signaling pathway,23,578,21,1437,2.7943371943371944,0.0010595693821125447
+epidermal growth factor receptor signaling pathway,25,578,24,1437,2.661618444846293,0.0010950977300209996
+MAPKKK cascade,28,578,30,1437,2.387636363636364,0.001677299292897043
+positive regulation of I-kappaB kinase/NF-kappaB cascade,2,578,31,1437,0.1574820788530466,0.002813394931967796
+caveolin-mediated endocytosis,4,578,0,1437,inf,0.006720285314422711

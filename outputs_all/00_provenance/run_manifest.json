@@ -1,0 +1,32 @@
+{
+  "created_utc": "2026-04-17T10:11:01.283274+00:00",
+  "data_path": "C:\\Users\\john\\Documents\\philipp\\phospho\\v3\\data.csv",
+  "n_rows_df": 2016,
+  "n_finite_log2fc": 2015,
+  "python": "3.12.3 | packaged by conda-forge | (main, Apr 15 2024, 18:20:11) [MSC v.1938 64 bit (AMD64)]",
+  "run_config": {
+    "q_max_sig": 0.05,
+    "abs_lfc_sig": 1.0,
+    "q_max_volcano": 0.05,
+    "abs_lfc_volcano": 2.5
+  },
+  "packages": {
+    "pandas": "2.2.3",
+    "numpy": "2.2.6",
+    "sklearn": "1.6.1",
+    "scipy": "1.16.0",
+    "hdbscan": "?"
+  },
+  "cluster_method": "hdbscan",
+  "clustering_info": {
+    "method": "hdbscan",
+    "hdbscan_auto_retry": true,
+    "min_cluster_size_retry": 6,
+    "min_samples_retry": 3,
+    "n_clusters": 16,
+    "n_noise": 1887,
+    "min_cluster_size": 6,
+    "min_samples": 3,
+    "selection": "leaf"
+  }
+}

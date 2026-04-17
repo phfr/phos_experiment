@@ -1,0 +1,11 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+negative regulation of Ras protein signal transduction,14,293,12,1722,7.150537634408602,2.6200291374884314e-06
+negative regulation of small GTPase mediated signal transduction,14,293,12,1722,7.150537634408602,2.6200291374884314e-06
+regulation of Ras protein signal transduction,14,293,24,1722,3.550179211469534,0.0004973847146585224
+protein autophosphorylation,14,293,27,1722,3.1501393866985263,0.0011982265264435933
+regulation of cellular localization,8,293,130,1722,0.34375168690958163,0.0015731915810554768
+membrane fusion,6,293,5,1722,7.179094076655052,0.0021825940080826968
+positive regulation of histone deacetylation,5,293,3,1722,9.947916666666666,0.0024174523398130545
+positive regulation of protein deacetylation,5,293,3,1722,9.947916666666666,0.0024174523398130545
+regulation of protein tyrosine kinase activity,5,293,3,1722,9.947916666666666,0.0024174523398130545
+regulation of histone deacetylation,5,293,3,1722,9.947916666666666,0.0024174523398130545

@@ -1,0 +1,26 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+Base excision repair,1,19,5,1996,22.122222222222224,0.055325727608281
+Ribosome,1,19,5,1996,22.122222222222224,0.055325727608281
+Mismatch repair,1,19,7,1996,15.785714285714286,0.07311404350334177
+Nucleotide excision repair,1,19,10,1996,11.033333333333333,0.09920261803497991
+DNA replication,1,19,13,1996,8.474358974358974,0.12459450420383542
+Ubiquitin mediated proteolysis,1,19,23,1996,4.765700483091788,0.20442530973047937
+Axon guidance,1,19,36,1996,3.0246913580246915,0.29793100378437953
+RNA transport,1,19,60,1996,1.7925925925925925,0.44386157455991987
+Apoptosis,0,19,10,1996,0.0,1.0
+Amyotrophic lateral sclerosis (ALS),0,19,6,1996,0.0,1.0
+B cell receptor signaling pathway,0,19,35,1996,0.0,1.0
+Acute myeloid leukemia,0,19,25,1996,0.0,1.0
+Alzheimer's disease,0,19,12,1996,0.0,1.0
+Amoebiasis,0,19,7,1996,0.0,1.0
+Adipocytokine signaling pathway,0,19,10,1996,0.0,1.0
+Adherens junction,0,19,19,1996,0.0,1.0
+Bladder cancer,0,19,22,1996,0.0,1.0
+Calcium signaling pathway,0,19,20,1996,0.0,1.0
+Cell cycle,0,19,41,1996,0.0,1.0
+Cell adhesion molecules (CAMs),0,19,11,1996,0.0,1.0
+Chagas disease (American trypanosomiasis),0,19,14,1996,0.0,1.0
+Chemokine signaling pathway,0,19,32,1996,0.0,1.0
+Chronic myeloid leukemia,0,19,35,1996,0.0,1.0
+Cell cycle - yeast,0,19,17,1996,0.0,1.0
+Colorectal cancer,0,19,19,1996,0.0,1.0

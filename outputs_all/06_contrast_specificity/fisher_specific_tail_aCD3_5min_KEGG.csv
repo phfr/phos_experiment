@@ -1,0 +1,26 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+Cell cycle - yeast,1,12,16,2003,11.289772727272727,0.0969252434645508
+Renal cell carcinoma,1,12,32,2003,5.599431818181818,0.18020467212157368
+Axon guidance,1,12,36,2003,4.967171717171717,0.19989363550607114
+Spliceosome,1,12,38,2003,4.7009569377990434,0.20957469282765434
+Endocytosis,1,12,41,2003,4.3503325942350335,0.22389508422574547
+ErbB signaling pathway,1,12,42,2003,4.244588744588745,0.2286154385031358
+Focal adhesion,1,12,45,2003,3.9555555555555557,0.24261905162515765
+T cell receptor signaling pathway,1,12,59,2003,2.99537750385208,0.3049400459242482
+Regulation of actin cytoskeleton,1,12,61,2003,2.894187779433681,0.3134487339044157
+MAPK signaling pathway,1,12,64,2003,2.7542613636363638,0.32603286277033733
+B cell receptor signaling pathway,0,12,35,2003,0.0,1.0
+Bacterial invasion of epithelial cells,0,12,20,2003,0.0,1.0
+Apoptosis,0,12,10,2003,0.0,1.0
+Arrhythmogenic right ventricular cardiomyopathy (ARVC),0,12,12,2003,0.0,1.0
+Alzheimer's disease,0,12,12,2003,0.0,1.0
+Acute myeloid leukemia,0,12,25,2003,0.0,1.0
+Bladder cancer,0,12,22,2003,0.0,1.0
+Bile secretion,0,12,6,2003,0.0,1.0
+Cell adhesion molecules (CAMs),0,12,11,2003,0.0,1.0
+Calcium signaling pathway,0,12,20,2003,0.0,1.0
+Chagas disease (American trypanosomiasis),0,12,14,2003,0.0,1.0
+Chemokine signaling pathway,0,12,32,2003,0.0,1.0
+Chronic myeloid leukemia,0,12,35,2003,0.0,1.0
+Cell cycle,0,12,41,2003,0.0,1.0
+Colorectal cancer,0,12,19,2003,0.0,1.0

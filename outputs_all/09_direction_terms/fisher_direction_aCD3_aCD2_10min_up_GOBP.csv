@@ -1,0 +1,11 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+protein sumoylation,28,757,12,1258,3.988111568358482,4.0720067790389516e-05
+protein metabolic process,199,757,236,1258,1.5443928072413584,8.867252822509448e-05
+transmembrane receptor protein tyrosine kinase signaling pathway,85,757,78,1258,1.9135378510378511,9.424897794383137e-05
+cellular protein metabolic process,194,757,229,1258,1.5483645784048337,9.478803583062761e-05
+RNA splicing. via transesterification reactions,19,757,79,1258,0.3842235257795616,9.961291150021494e-05
+regulation of gene expression. epigenetic,10,757,54,1258,0.29847786206554616,0.0001210546104106011
+RNA splicing. via transesterification reactions with bulged adenosine as nucleophile,19,757,78,1258,0.38947953582099926,0.0001428426372796227
+nuclear mRNA splicing. via spliceosome,19,757,78,1258,0.38947953582099926,0.0001428426372796227
+post-translational protein modification,27,757,13,1258,3.542149631190727,0.00018579007443625517
+regulation of glucose transport,23,757,10,1258,3.910626702997275,0.00019574744252389843

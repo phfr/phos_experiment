@@ -1,0 +1,13 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+regulation of autophagy,2,7,23,2008,34.52173913043478,0.0029884911209618345
+protein sumoylation,2,7,38,2008,20.736842105263158,0.0075783789778516
+post-translational protein modification,2,7,38,2008,20.736842105263158,0.0075783789778516
+response to nutrient levels,2,7,41,2008,19.190243902439025,0.008729644403945256
+regulation of vesicle-mediated transport,2,7,43,2008,18.27906976744186,0.00953882355790159
+response to extracellular stimulus,2,7,44,2008,17.854545454545455,0.009955778100586747
+positive regulation of protein phosphorylation,2,7,46,2008,17.06086956521739,0.010814192365787534
+positive regulation of phosphorylation,2,7,47,2008,16.68936170212766,0.011255562608264805
+transmembrane receptor protein tyrosine kinase signaling pathway,3,7,160,2008,8.6625,0.01426370622826926
+positive regulation of phosphate metabolic process,2,7,58,2008,13.448275862068966,0.01663219298330675
+positive regulation of phosphorus metabolic process,2,7,58,2008,13.448275862068966,0.01663219298330675
+response to external stimulus,3,7,177,2008,7.758474576271187,0.01873555301503768

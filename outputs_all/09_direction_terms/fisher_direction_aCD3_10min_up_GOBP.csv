@@ -1,0 +1,11 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+positive regulation of calcium ion transport,10,496,4,1519,7.79320987654321,0.000282874043746307
+positive regulation of calcium ion transport via store-operated calcium channel activity,8,496,2,1519,12.434426229508198,0.00035736567877063036
+activation of store-operated calcium channel activity,8,496,2,1519,12.434426229508198,0.00035736567877063036
+regulation of calcium ion transport via store-operated calcium channel activity,8,496,2,1519,12.434426229508198,0.00035736567877063036
+positive regulation of ion transport,10,496,5,1519,6.230452674897119,0.0006631611027065459
+negative regulation of G2/M transition of mitotic cell cycle,5,496,0,1519,inf,0.0008900358659099603
+protein complex assembly,43,496,70,1519,1.9649006622516556,0.0010504177703928247
+protein complex subunit organization,47,496,80,1519,1.8828786191536748,0.0013225532841711503
+transcription. DNA-dependent,70,496,308,1519,0.6460734101579172,0.0022667072599080866
+transmembrane transport,28,496,40,1519,2.2121794871794873,0.002340128557581905

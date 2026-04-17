@@ -1,0 +1,11 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+regulation of smooth muscle cell differentiation,6,259,1,1756,41.6205533596838,2.676349266261624e-05
+regulation of histone deacetylation,6,259,2,1756,20.798418972332016,9.552245937741294e-05
+positive regulation of histone deacetylation,6,259,2,1756,20.798418972332016,9.552245937741294e-05
+positive regulation of protein deacetylation,6,259,2,1756,20.798418972332016,9.552245937741294e-05
+positive regulation of transport,2,259,99,1756,0.13025193569940652,0.00017701089700880335
+regulation of organic acid transport,5,259,1,1756,34.54724409448819,0.00018207058508478934
+regulation of fatty acid transport,5,259,1,1756,34.54724409448819,0.00018207058508478934
+positive regulation of I-kappaB kinase/NF-kappaB cascade,12,259,21,1756,4.013880855986119,0.0004600099147996922
+chromosome organization,45,259,170,1756,1.9617921935129192,0.0004927767178172691
+regulation of transmembrane transport,0,259,54,1756,0.0,0.0007686503430678691

@@ -1,0 +1,13 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+neurological system process,2,9,43,2006,13.043189368770765,0.01589351928891599
+organ morphogenesis,2,9,55,2006,10.135064935064936,0.024916047994957467
+multicellular organismal process,4,9,284,2006,4.850704225352112,0.028543946297975176
+transmembrane receptor protein tyrosine kinase signaling pathway,3,9,160,2006,5.76875,0.030339614505741234
+vesicle fusion,1,9,7,2006,35.69642857142857,0.03523868126676098
+platelet-derived growth factor receptor signaling pathway,1,9,7,2006,35.69642857142857,0.03523868126676098
+memory,1,9,7,2006,35.69642857142857,0.03523868126676098
+negative regulation of G-protein coupled receptor protein signaling pathway,1,9,8,2006,31.21875,0.03956496520726878
+negative regulation of ERK1 and ERK2 cascade,1,9,8,2006,31.21875,0.03956496520726878
+cilium assembly,1,9,8,2006,31.21875,0.03956496520726878
+transcription from RNA polymerase III promoter,1,9,8,2006,31.21875,0.03956496520726878
+female gamete generation,1,9,8,2006,31.21875,0.03956496520726878

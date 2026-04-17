@@ -1,0 +1,11 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+regulation of intracellular transport,33,477,51,1538,2.167064122946476,0.0014327782471505392
+circadian rhythm,0,477,26,1538,0.0,0.0016403318234208676
+anatomical structure morphogenesis,60,477,120,1538,1.7002398081534773,0.0023094995841950543
+regulation of membrane potential,7,477,3,1538,7.620567375886525,0.002437114867260617
+protein localization in membrane,9,477,6,1538,4.910256410256411,0.0027064095956083763
+axon cargo transport,4,477,0,1538,inf,0.00311021932220179
+coenzyme A metabolic process,4,477,0,1538,inf,0.00311021932220179
+negative regulation of cell-matrix adhesion,4,477,0,1538,inf,0.00311021932220179
+negative regulation of cell-substrate adhesion,4,477,0,1538,inf,0.00311021932220179
+regulation of lamellipodium assembly,4,477,0,1538,inf,0.00311021932220179

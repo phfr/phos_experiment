@@ -1,0 +1,31 @@
+layer,term,p_fisher,neglog10
+KEGG,Neuroactive ligand-receptor interaction,6.635552368567743e-05,4.178122918973477
+GOMF,G-protein coupled receptor activity,0.0019548815482182723,2.708879552597363
+GOMF,p53 binding,0.004017130601599629,2.396084048618832
+GOMF,transmembrane signaling receptor activity,0.00577377094009295,2.238540449659824
+GOMF,signaling receptor activity,0.008956140017473916,2.047879125416706
+GOBP,G-protein coupled receptor protein signaling pathway,0.012088767134806862,1.9176179881261552
+GOMF,receptor activity,0.022140016318986155,1.6548220633469515
+GOCC,integral to plasma membrane,0.02302090769809125,1.6378775564446941
+GOBP,positive regulation of cell morphogenesis involved in differentiation,0.02459300295767048,1.6091884379827568
+GOMF,protein phosphatase type 2A regulator activity,0.02459300295767048,1.6091884379827568
+GOMF,NF-kappaB binding,0.02459300295767048,1.6091884379827568
+GOBP,regulation of epithelial to mesenchymal transition,0.02459300295767048,1.6091884379827568
+GOBP,positive regulation of epithelial to mesenchymal transition,0.02459300295767048,1.6091884379827568
+GOCC,small nuclear ribonucleoprotein complex,0.029445774087234304,1.5309770242142238
+GOMF,protein phosphatase 2A binding,0.029445774087234304,1.5309770242142238
+GOBP,canonical Wnt receptor signaling pathway,0.029445774087234304,1.5309770242142238
+GOCC,replication fork,0.034276805575102716,1.4649996589118905
+GOBP,regulation of protein phosphatase type 2A activity,0.034276805575102716,1.4649996589118905
+GOCC,intrinsic to plasma membrane,0.040135317304406865,1.3964732992000213
+GOMF,telomeric DNA binding,0.04387399577214146,1.357792810938855
+GOBP,central nervous system development,0.048640326800196566,1.3130035158273183
+GOCC,transcription elongation factor complex,0.048640326800196566,1.3130035158273183
+GOCC,membrane,0.050019203553321366,1.3008632277424903
+GOCC,integral to membrane,0.05259112715041536,1.2790875211439507
+GOBP,positive regulation of protein dephosphorylation,0.05338526282613076,1.2725786148182043
+GOBP,positive regulation of dephosphorylation,0.05338526282613076,1.2725786148182043
+GOCC,integral to endoplasmic reticulum membrane,0.05338526282613076,1.2725786148182043
+GOCC,intrinsic to endoplasmic reticulum membrane,0.0581088892591341,1.2357574259420432
+KEGG,Spliceosome,0.177895808198761,0.7498342851796799
+KEGG,Acute myeloid leukemia,1.0,-0.0

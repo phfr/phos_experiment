@@ -1,0 +1,13 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+G-protein coupled receptor protein signaling pathway,2,10,33,2005,14.93939393939394,0.012088767134806862
+central nervous system development,1,10,9,2005,24.641975308641975,0.048640326800196566
+positive regulation of protein dephosphorylation,1,10,10,2005,22.166666666666668,0.05338526282613076
+positive regulation of dephosphorylation,1,10,10,2005,22.166666666666668,0.05338526282613076
+negative regulation of transforming growth factor beta receptor signaling pathway,1,10,10,2005,22.166666666666668,0.05338526282613076
+mitotic nuclear envelope reassembly,1,10,11,2005,20.141414141414142,0.0581088892591341
+nuclear envelope reassembly,1,10,11,2005,20.141414141414142,0.0581088892591341
+regulation of protein dephosphorylation,1,10,11,2005,20.141414141414142,0.0581088892591341
+negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,1,10,12,2005,18.453703703703702,0.06281129120991226
+regulation of phosphoprotein phosphatase activity,1,10,12,2005,18.453703703703702,0.06281129120991226
+recombinational repair,1,10,13,2005,17.025641025641026,0.06749255349158104
+double-strand break repair via homologous recombination,1,10,13,2005,17.025641025641026,0.06749255349158104

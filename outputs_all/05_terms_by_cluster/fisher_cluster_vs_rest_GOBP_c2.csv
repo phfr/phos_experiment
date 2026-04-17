@@ -1,0 +1,13 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+protein ubiquitination,2,6,69,2009,14.057971014492754,0.016753744477056853
+cilium assembly,1,6,8,2009,50.025,0.02653411140949601
+neural precursor cell proliferation,1,6,9,2009,44.44444444444444,0.029445774087234304
+protein modification by small protein conjugation,2,6,105,2009,9.066666666666666,0.03642111550501413
+limb morphogenesis,1,6,12,2009,33.28333333333333,0.0381372540457282
+calcium ion transmembrane transport,1,6,12,2009,33.28333333333333,0.0381372540457282
+appendage morphogenesis,1,6,12,2009,33.28333333333333,0.0381372540457282
+neuron migration,1,6,14,2009,28.5,0.043895461948139466
+protein modification by small protein conjugation or removal,2,6,118,2009,8.01271186440678,0.04505452491731101
+cellular component assembly involved in morphogenesis,1,6,16,2009,24.9125,0.049624914805229646
+protein polyubiquitination,1,6,17,2009,23.435294117647057,0.05247889404004876
+hemopoietic progenitor cell differentiation,1,6,18,2009,22.122222222222224,0.055325727608281

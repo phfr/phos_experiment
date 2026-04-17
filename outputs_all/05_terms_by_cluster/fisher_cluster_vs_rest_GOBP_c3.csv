@@ -1,0 +1,13 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+RNA splicing. via transesterification reactions with bulged adenosine as nucleophile,3,8,94,2007,12.21063829787234,0.005077464482061637
+nuclear mRNA splicing. via spliceosome,3,8,94,2007,12.21063829787234,0.005077464482061637
+RNA splicing. via transesterification reactions,3,8,95,2007,12.07578947368421,0.005227791660900968
+RNA splicing,3,8,125,2007,9.0336,0.011076361572572045
+biological regulation,2,8,1394,2007,0.14658058345289335,0.012649101324322983
+mRNA processing,3,8,144,2007,7.7625,0.016221503431520477
+regulation of biological process,2,8,1355,2007,0.16039360393603935,0.01747053951333096
+regulation of cellular process,2,8,1318,2007,0.1742539200809307,0.02324887860122621
+mRNA metabolic process,3,8,177,2007,6.203389830508475,0.028034172380490215
+regulation of DNA recombination,1,8,7,2007,40.816326530612244,0.03137770550394662
+somatic diversification of immune receptors via germline recombination within a single locus,1,8,7,2007,40.816326530612244,0.03137770550394662
+lymphocyte activation involved in immune response,1,8,7,2007,40.816326530612244,0.03137770550394662

@@ -1,0 +1,13 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+macromolecule modification,5,6,384,2009,21.158854166666668,0.0013248413823085381
+regulation of transcription. DNA-dependent,5,6,502,2009,15.00996015936255,0.004721036426778825
+regulation of cellular component organization,4,6,303,2009,11.26072607260726,0.00615275030475754
+regulation of RNA metabolic process,5,6,534,2009,13.810861423220974,0.006311245797942281
+chromatin modification,3,6,146,2009,12.76027397260274,0.006713776737160559
+regulation of cellular macromolecule biosynthetic process,5,6,566,2009,12.747349823321555,0.0082859427815492
+regulation of macromolecule biosynthetic process,5,6,574,2009,12.5,0.008846544344635941
+regulation of cellular biosynthetic process,5,6,583,2009,12.229845626072041,0.0095115450751089
+regulation of biosynthetic process,5,6,584,2009,12.200342465753424,0.00958773460496524
+chromatin organization,3,6,171,2009,10.748538011695906,0.010411939019586737
+cellular macromolecule metabolic process,6,6,947,2009,inf,0.011099262560142778
+positive regulation of macromolecule metabolic process,4,6,360,2009,9.161111111111111,0.01158061604765291

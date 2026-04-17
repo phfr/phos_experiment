@@ -1,0 +1,13 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+Mismatch repair,1,8,7,2007,40.816326530612244,0.03137770550394662
+Colorectal cancer,1,8,18,2007,15.785714285714286,0.07311404350334177
+Axon guidance,1,8,36,2007,7.821428571428571,0.1380209233521603
+Spliceosome,1,8,38,2007,7.402255639097745,0.14498110991733426
+Pathways in cancer,1,8,64,2007,4.337053571428571,0.23109122694756687
+Aldosterone-regulated sodium reabsorption,0,8,10,2007,0.0,1.0
+Adipocytokine signaling pathway,0,8,10,2007,0.0,1.0
+Alzheimer's disease,0,8,12,2007,0.0,1.0
+B cell receptor signaling pathway,0,8,35,2007,0.0,1.0
+Bacterial invasion of epithelial cells,0,8,20,2007,0.0,1.0
+Bladder cancer,0,8,22,2007,0.0,1.0
+Calcium signaling pathway,0,8,20,2007,0.0,1.0

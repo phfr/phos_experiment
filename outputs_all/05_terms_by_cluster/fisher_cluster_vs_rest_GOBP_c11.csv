@@ -1,0 +1,13 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+establishment of protein localization in plasma membrane,3,6,5,2009,400.8,8.180120756139223e-07
+establishment of protein localization in membrane,3,6,9,2009,222.22222222222223,3.199237804244631e-06
+regulation of actin cytoskeleton organization,4,6,53,2009,73.81132075471699,8.290861888833348e-06
+regulation of actin filament-based process,4,6,53,2009,73.81132075471699,8.290861888833348e-06
+regulation of cytoskeleton organization,4,6,97,2009,39.422680412371136,8.266257287752638e-05
+cell-cell junction assembly,2,6,6,2009,166.91666666666666,0.00020534719594746568
+regulation of actin cytoskeleton reorganization,2,6,7,2009,143.0,0.0002636676394374392
+regulation of organelle organization,4,6,169,2009,21.775147928994084,0.0006869652182379279
+cell-cell junction organization,2,6,13,2009,76.76923076923077,0.0007629263969277244
+locomotion,4,6,183,2009,19.956284153005466,0.0009291246770237499
+enzyme linked receptor protein signaling pathway,4,6,184,2009,19.83695652173913,0.0009485113129327923
+cellular component assembly at cellular level,4,6,193,2009,18.818652849740932,0.0011364927100110348

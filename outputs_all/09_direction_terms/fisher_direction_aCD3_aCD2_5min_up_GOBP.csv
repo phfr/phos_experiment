@@ -1,0 +1,11 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+negative regulation of gene expression. epigenetic,1,858,23,1157,0.057531327685048955,3.4712347918142676e-05
+positive regulation of cellular component movement,29,858,10,1157,4.0124246079614,5.906762114090108e-05
+RNA splicing. via transesterification reactions,23,858,75,1157,0.3973812375249501,6.110250791006093e-05
+RNA splicing,33,858,95,1157,0.4471578947368421,6.220680275844318e-05
+nuclear mRNA splicing. via spliceosome,23,858,74,1157,0.40312348276420135,8.680636442334638e-05
+RNA splicing. via transesterification reactions with bulged adenosine as nucleophile,23,858,74,1157,0.40312348276420135,8.680636442334638e-05
+positive regulation of locomotion,28,858,10,1157,3.8693975903614457,0.00010369029016125081
+inositol phosphate metabolic process,10,858,0,1157,inf,0.00019009658694169133
+negative regulation of organelle organization,35,858,17,1157,2.8518333214209135,0.0003192137040186374
+mRNA metabolic process,54,858,126,1157,0.5495735607675906,0.0003572568651531783

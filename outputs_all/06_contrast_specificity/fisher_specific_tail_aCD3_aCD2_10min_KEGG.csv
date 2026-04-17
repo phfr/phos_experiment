@@ -1,0 +1,26 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+Protein processing in endoplasmic reticulum,2,27,7,1988,22.64,0.005875998747677214
+Tight junction,3,27,26,1988,9.432692307692308,0.006218375401781906
+Glycerophospholipid metabolism,1,27,5,1988,15.253846153846155,0.07784486603712738
+Arrhythmogenic right ventricular cardiomyopathy (ARVC),1,27,11,1988,6.9125874125874125,0.14983736299064024
+Dilated cardiomyopathy,1,27,11,1988,6.9125874125874125,0.14983736299064024
+NOD-like receptor signaling pathway,1,27,13,1988,5.84319526627219,0.17260854293167466
+Measles,1,27,14,1988,5.423076923076923,0.18377274550081232
+Hypertrophic cardiomyopathy (HCM),1,27,14,1988,5.423076923076923,0.18377274550081232
+Adherens junction,1,27,18,1988,4.2094017094017095,0.22699625158467066
+Vascular smooth muscle contraction,1,27,28,1988,2.6923076923076925,0.32562929059571
+Leukocyte transendothelial migration,1,27,33,1988,2.2785547785547786,0.370284370253636
+Prostate cancer,1,27,33,1988,2.2785547785547786,0.370284370253636
+Spliceosome,1,27,38,1988,1.9736842105263157,0.41208498366081975
+RNA transport,1,27,60,1988,1.235897435897436,0.5663355570886084
+Pathways in cancer,1,27,64,1988,1.15625,0.5898301551387858
+Adipocytokine signaling pathway,0,27,10,1988,0.0,1.0
+Bladder cancer,0,27,22,1988,0.0,1.0
+Calcium signaling pathway,0,27,20,1988,0.0,1.0
+Cell cycle,0,27,41,1988,0.0,1.0
+Cell adhesion molecules (CAMs),0,27,11,1988,0.0,1.0
+Chagas disease (American trypanosomiasis),0,27,14,1988,0.0,1.0
+Chemokine signaling pathway,0,27,32,1988,0.0,1.0
+Chronic myeloid leukemia,0,27,35,1988,0.0,1.0
+Cell cycle - yeast,0,27,17,1988,0.0,1.0
+Apoptosis,0,27,10,1988,0.0,1.0

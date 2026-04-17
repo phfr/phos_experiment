@@ -1,0 +1,13 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+androgen receptor signaling pathway,2,6,20,2009,49.725,0.0016628845572155219
+steroid hormone receptor signaling pathway,2,6,22,2009,45.15909090909091,0.001981540387450532
+intracellular receptor mediated signaling pathway,2,6,34,2009,29.044117647058822,0.004451299403924711
+stem cell maintenance,2,6,38,2009,25.93421052631579,0.0054817751013927305
+transcription initiation from RNA polymerase II promoter,2,6,47,2009,20.872340425531913,0.00816597091092389
+transcription initiation. DNA-dependent,2,6,54,2009,18.10185185185185,0.01059375405873421
+regulation of cell differentiation,3,6,199,2009,9.095477386934673,0.015795357373339355
+signal transduction,5,6,661,2009,10.196671709531014,0.017008939098044167
+regulation of microtubule polymerization,1,6,7,2009,57.2,0.023615173212822835
+negative regulation of cell differentiation,2,6,83,2009,11.602409638554217,0.023619419052407102
+negative regulation of G-protein coupled receptor protein signaling pathway,1,6,8,2009,50.025,0.02653411140949601
+termination of G-protein coupled receptor signaling pathway,1,6,8,2009,50.025,0.02653411140949601

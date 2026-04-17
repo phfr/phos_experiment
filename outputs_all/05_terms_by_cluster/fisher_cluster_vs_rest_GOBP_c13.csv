@@ -1,0 +1,13 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+regulation of nucleobase-containing compound metabolic process,6,8,649,2007,6.277349768875193,0.01705592982833571
+regulation of nitrogen compound metabolic process,6,8,651,2007,6.248847926267281,0.01733148271809048
+regulation of cellular catabolic process,3,8,152,2007,7.322368421052632,0.018743588650517735
+transmembrane receptor protein tyrosine kinase signaling pathway,3,8,160,2007,6.92625,0.02148221944615716
+regulation of catabolic process,3,8,170,2007,6.483529411764706,0.025214683541160684
+cellular response to epidermal growth factor stimulus,1,8,7,2007,40.816326530612244,0.03137770550394662
+platelet-derived growth factor receptor signaling pathway,1,8,7,2007,40.816326530612244,0.03137770550394662
+nucleic acid phosphodiester bond hydrolysis,1,8,7,2007,40.816326530612244,0.03137770550394662
+enzyme linked receptor protein signaling pathway,3,8,185,2007,5.909189189189189,0.031466755827734214
+cellular response to endogenous stimulus,2,8,74,2007,8.707207207207206,0.03392348645321543
+epithelial cell development,1,8,8,2007,35.69642857142857,0.03523868126676098
+positive regulation of defense response to virus by host,1,8,9,2007,31.714285714285715,0.03908618403339404

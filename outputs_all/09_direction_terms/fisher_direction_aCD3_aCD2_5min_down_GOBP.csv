@@ -1,0 +1,11 @@
+term,n_query_with,n_query,n_rest_with,n_rest,odds_ratio,p_fisher
+regulation of histone H4 acetylation,7,346,2,1669,17.210914454277287,0.00010945933947376962
+alpha-beta T cell activation,10,346,7,1669,7.066326530612245,0.00012273041795535884
+negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,8,346,5,1669,7.876923076923077,0.00040540577981457274
+regulation of histone modification,13,346,16,1669,4.0332207207207205,0.0004381243927265399
+alpha-beta T cell differentiation,8,346,6,1669,6.560157790927022,0.000805683318833958
+protein autophosphorylation,16,346,25,1669,3.1883636363636363,0.0010611123328994171
+negative regulation of cytoskeleton organization,0,346,36,1669,0.0,0.0014835277080057544
+cellular response to ionizing radiation,7,346,5,1669,6.871976401179941,0.0014964277445753756
+regulation of small GTPase mediated signal transduction,28,346,66,1669,2.1385553649704594,0.0018436369417905085
+negative regulation of protein kinase activity,15,346,25,1669,2.980060422960725,0.0020561194256393084
